@@ -59,7 +59,7 @@ client/  src/App.jsx, components/{Discover,SwipeCard,MatchModal,Matches}.jsx, ap
 - It also improves match quality. A match with someone you stopped caring about weeks ago is a worse experience than no match.
 - Privacy impact is none: the timer only runs on the user's own data and tells the other person nothing.
 
-*(Add one line of your own here about what you noticed while adding a crush or on the extra-slots screen.)*
+*(while i added my crush i noticed we can add how it's our crush or how we met so it get some clue to them.)*
 
 ### 2. "Verified" badge on matches, built from the existing verification flow
 **What:** Coy already collects a verified phone number (OTP) and an email. Use that to show a small "Verified" badge on the match screen, and only after a mutual match. Optionally, verify a college or work email domain so a match can also show "Both from the same college".
@@ -70,7 +70,7 @@ client/  src/App.jsx, components/{Discover,SwipeCard,MatchModal,Matches}.jsx, ap
 - Showing it only after a match keeps the core promise intact. Nobody learns anything about anyone who hasn't liked them back.
 - It gives the invite-link flow a better pitch: "Join, verify, and your crush will know you're real."
 
-*(Add one line of your own about the email-verification or invite-link step.)*
+*(i loggin by my phone no it's very smooth process and add crush is very simple)*
 
 ---
 
